@@ -1,7 +1,7 @@
 <script setup>
 import {Jeu} from "@/class/Jeu.js";
 import CarteV from "@/CarteV.vue";
-import popUp from './PopUp.vue'
+import popUp from './popup.vue'
 import { watchEffect, ref, watch, reactive } from 'vue';
 
 const showExplicationJeu = ref(false)

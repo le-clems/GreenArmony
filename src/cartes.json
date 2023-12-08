@@ -1,0 +1,180 @@
+{
+  "0": {
+    "titre": "Planter des abres",
+    "texte": "Vous mobilisez toute la population pour planter des millions d'abres",
+    "effetYes": [
+      -10,
+      -5,
+      0,
+      -10,
+      -15
+    ],
+    "effetNo": [
+      10,
+      5,
+      0,
+      -10,
+      10
+    ]
+  },
+  "1": {
+    "titre": "Objectif 100% nucléaire",
+    "texte": "Vous construisez des centrales nucléaires pour atteindre l'objectif de 100% d'énergie nucléaire",
+    "effetYes": [
+      -10,
+      -15,
+      0,
+      30,
+      -10
+    ],
+    "effetNo": [
+      10,
+      5,
+      0,
+      -10,
+      10
+    ]
+  },
+  "2": {
+    "titre": "Objectif 100% d'energie renouvelable",
+    "texte": "Vous construisez des éoliennes et des panneaux solaires pour atteindre l'objectif de 100% d'énergie renouvelable",
+    "effetYes": [
+      -20,
+      -15,
+      50,
+      -25,
+      -5
+    ],
+    "effetNo": [
+      10,
+      10,
+      0,
+      -10,
+      10
+    ]
+  },
+  "3": {
+    "titre": "Réduire la consommation de viande",
+    "texte": "La production de viande est divisée par 2 !",
+    "effetYes": [
+      -10,
+      -20,
+      0,
+      0,
+      -20
+    ],
+    "effetNo": [
+      10,
+      10,
+      0,
+      -10,
+      10
+    ]
+  },
+  "4": {
+    "titre": "Interdire la consommation de viande",
+    "texte": "Plus personne n'as l'autorisation de vendre de la viande",
+    "effetYes": [
+      -30,
+      -25,
+      0,
+      0,
+      -30
+    ],
+    "effetNo": [
+      10,
+      10,
+      0,
+      -10,
+      10
+    ]
+  },
+    "5": {
+        "titre": "Création d'aires maritimes protégées supplémentaires",
+        "texte": "Vous ordonnez la création de nouvelles aires maritimes protégées",
+        "effetYes": [
+        10,
+        -5,
+        0,
+        -10,
+        10
+        ],
+        "effetNo": [
+        10,
+        10,
+        0,
+        -10,
+        10
+        ]
+    },
+    "6": {
+        "titre": "Favorisation de la seconde vie des appareils eléctroniques",
+        "texte": "Vous incitez la remise sur le marché des anciens appareils électroniques",
+        "effetYes": [
+        10,
+        -5,
+        0,
+        -5,
+        5
+        ],
+        "effetNo": [
+        10,
+        10,
+        0,
+        -10,
+        10
+        ]},
+    "7": {
+        "titre": "Forcer les rénovations des habitations",
+        "texte": "Vous forcez toutes les habitations à être rénovées",
+        "effetYes": [
+        -20,
+        -10,
+        0,
+        -5,
+        5
+        ],
+        "effetNo": [
+        10,
+        10,
+        0,
+        -10,
+        10
+        ]},
+    "8": {
+        "titre": "Limiter les vols longs courriers",
+        "texte": "Vous limitez le nombre de voyages aérien que peut effectuer un citoyen",
+        "effetYes": [
+        -15,
+        -10,
+        0,
+        -15,
+        -15
+        ],
+        "effetNo": [
+        10,
+        10,
+        0,
+        -10,
+        10
+        ]},
+    "9": {
+        "titre": "Favoriser les voitures éléctriques",
+        "texte": "On ne peux plus qu'acheter des voitures éléctriques",
+        "effetYes": [
+        -5,
+        5,
+        0,
+        -10,
+        -15
+        ],
+        "effetNo": [
+        10,
+        10,
+        0,
+        -10,
+        10
+        ]
+    }
+
+}
